@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>about · bucket webring!</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <h1 id="header">about</h1>
+    <p><a href="index.html">⥼ back to index</a></p>
+    <br/>
+    <p>the bucket webring was created in january 2022 and is currently managed by bucketfish.</p>
+    <p> for issues or bugs or suggestions, open a pr on <a href="https://github.com/bucketfishy/bucket-webring">the github repo</a> or <a href="https://discord.gg/jcV4dM63Y2" target="_blank">find us on discord!</a></p>
+    <hr/>
+
+    <h2>joining</h2>
+    <p>although our members are based on discord, there is no prerequisite for joining. submit a pr to <a href="https://github.com/bucketfishy/bucket-webring">this repo</a> by modifying <code>webring.json.</code></p>
+    <p>simply add your site's info to the bottom of the json by adding a new field:</p>
+    <p><code>{ "name": "&lt;name&gt;", "url": "&lt;url&gt;" }</code></p>
+    <ul>
+      <li><code>&lt;name&gt;</code> is your name to be displayed on this website :)</li>
+      <li><code>&lt;url&gt;</code> is the url to your webpage.</li>
+    </ul>
+    <p>after your pr is approved, please add the navigation bar to your webpage using an embed - which will be explained below!</p>
+    <br>
+
+    <p>alternatively, if you don't know how json or github works, you can also shoot me a message at <code>bucketfish#3961</code> on discord and i'll add you in.</p>
+    <hr/>
+
+    <h2>embedding</h2>
+    <p>you're highly encouraged to add this navbar to your site to allow users to navigate through the webring.</p>
+    <p>add the following iframe to your site, and replace YOURNAME with the name that you registered using:</p>
+
+    <p><code>
+      &lt;iframe id="bucket-webring" style="width: 100%; height: 3rem;" src="https://webring.bucketfish.me/?name=YOURNAME"&gt;&lt;/iframe&gt;
+    </code></p>
+
+    <p>here's an example of what it looks like:</p>
+    <iframe id="bucket-webring" style="width: 100%; height: 3rem;" src="https://webring.bucketfish.me/?name=bucketfish"></iframe>
+
+    <p>unfortunately, due to how iframes work, you can't style the iframe content beyond the background color.</p>
+
+  </body>
+
+  <script type="text/javascript" src="header.js"></script>
+
+</html>

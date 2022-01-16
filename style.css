@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+
+:root {
+    --red: #ffcaca;
+    --orange: #ffedc1;
+    --yellow: #feffb8;
+    --green: #c4ffcb;
+    --blue: #add8ff;
+    --purple: #ccafe9;
+
+    --darkgreen: #3E885B;
+    --darkblue: #7fb4f5;
+
+    --white: #fefefa;
+    --lightgray: #94B0C2;
+    --lightblue: #d1e9ff;
+    --gray: #ADACB5;
+    --darkgray: #333C57;
+    --black: #454545;
+    --trueblack: #242424;
+
+    --lessred: #ffcacaaa;
+    --lessorange: #ffedc1aa;
+    --lessyellow: #feffb8aa;
+    --lessgreen: #c4ffcbaa;
+    --lessblue: #add8ffaa;
+    --lesspurple: #ccafe9aa;
+
+    --rainbowright: linear-gradient(to right, var(--red) 0%, var(--orange) 20%, var(--yellow) 40%, var(--green) 60%, var(--blue) 80%,  var(--purple) 100%);
+    --hrainbow: linear-gradient(to right, #00000000 0%, var(--lessred) 14%, var(--orange) 28%, var(--yellow) 42%, var(--green) 56%, var(--blue) 70%,  var(--lesspurple) 84%, #00000000 100%);
+
+}
+
+* {
+  font-family: Merriweather, Georgia, serif;
+  color: var(--lightblue);
+}
+
+html {
+  background-color: #454545;
+}
+
+body {
+  height: 100%;
+  width: 50%;
+  margin: 20px auto;
+  padding-bottom: 50px;
+}
+
+
+@media (max-width: 720px)
+{
+  body {
+    width: 90%;
+  }
+
+  a:before {
+    height: 2px;
+    bottom: -2px;
+  }
+
+}
+
+p, a {
+  font-size: 18px;
+}
+
+a {
+  display: inline-block;
+  color: inherit;
+  position: relative;
+  text-decoration: none;
+  transition: linear 0.2s;
+  color: var(--purple);
+}
+
+a:before {
+  background: var(--rainbowright);
+  content: '';
+  height: 2px;
+  position: absolute;
+  bottom: -1px;
+  width: 100%;
+  left: 50%;
+  transform: translateX(-50%);
+  transition: width 0.2s ease-in-out;
+}
+
+a:hover{
+  color: var(--white);
+}
+
+a:hover:before{
+  width: 0;
+}
+
+
+hr {
+  background-image: var(--hrainbow);
+  width: 70%;
+  border: 0;
+  height: 1px;
+}
+
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+h2 {
+  font-size: 36px;
+}
+
+
+code {
+  font-family: 'Courier New', monospace;
+}
+
+
+
+
+
+#header span{
+  animation-delay: var(--n);
+  animation: wave 1s linear var(--n) infinite forwards running, rainbow 3s linear var(--n) infinite forwards running;
+  position: relative;
+}
+
+@media screen and (prefers-reduced-motion: reduce;)
+{
+  #header span {
+    animation: none;
+  }
+}
+
+@keyframes wave{
+  0%    {top: 0px;}
+  25%   {top: -3px;}
+  50%   {top: 0px;}
+  75%  {top: 3px;}
+  100% {top: 0px;}
+}
+
+@keyframes rainbow{
+  0% {color: var(--red);}
+  17% {color: var(--orange);}
+  33% {color: var(--yellow);}
+  50% {color: var(--green);}
+  67% {color: var(--blue);}
+  83% {color: var(--purple);}
+  100% {color: var(--red);}
+}
