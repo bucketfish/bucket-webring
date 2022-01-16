@@ -1,4 +1,4 @@
-const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/main/webring.json`;
+const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/master/webring.json`;
 
 const template = document.createElement("template");
 template.innerHTML = `
