@@ -38,6 +38,7 @@ class WebRing extends HTMLElement {
     fetch(DATA_FOR_WEBRING)
       .then((response) => response.json())
       .then((sites) => {
+
         // Find the current site in the data
         const matchedSiteIndex = sites.findIndex(
           (site) => site.url === thisSite
@@ -55,13 +56,13 @@ class WebRing extends HTMLElement {
         const cp = `
           <h1>the bucket webring :)</h1>
           <p>
-            you're at <a href="${matchedSite.url}">${matchedSite.name}</a>
+            currently in: <a href="${matchedSite.url}">${matchedSite.name}</a> :)
           </p>
 
           <p>
-            <a href="${sites[prevSiteIndex].url}">[Prev]</a>
-            <a href="${sites[nextSiteIndex].url}">[Next]</a>
-            <a href="${sites[randomSiteIndex].url}">[Random]</a>
+            <a href="${sites[prevSiteIndex].url}">[prev]</a>
+            <a href="${sites[nextSiteIndex].url}">[next]</a>
+            <a href="${sites[randomSiteIndex].url}">[random]</a>
           </p>
         `;
 
