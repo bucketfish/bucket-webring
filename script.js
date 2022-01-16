@@ -1,82 +1,56 @@
 const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/master/webring.json`;
 
-const template = document.createElement("template");
-template.innerHTML = `
-<style>
-.webring {
-  padding: 1rem;
+const queryString = window.location.search;
+const urlParams = new URLSearchParams(queryString);
+const name = urlParams.get('name')
 
-  display: grid;
-  grid-template-columns: 1fr 4fr 1fr;
-  grid-gap: 1rem;
+const left = document.getElementById("prev")
 
-  text-align: center;
+const right = document.getElementById("next")
 
-  font: 100% system-ui, sans-serif;
-}
-.icon {
-  font-size: 100px;
-}
-</style>
+fetch(DATA_FOR_WEBRING)
+  .then((response) => response.json())
+  .then((sites) => {
 
-<div class="webring">
-  <div class="icon">🏳️‍🌈</div>
-  <div id="copy">
+    // Find the current site in the data
+    const matchedSiteIndex = sites.findIndex(
+      (site) => site.name === name
+    );
+    const matchedSite = sites[matchedSiteIndex];
 
-  </div>
-  <div class="icon">🏳️‍🌈</div>
-</div>`;
+    let prevSiteIndex = matchedSiteIndex - 1;
+    if (prevSiteIndex === -1) prevSiteIndex = sites.length - 1;
 
-class WebRing extends HTMLElement {
-  connectedCallback() {
-    this.attachShadow({ mode: "open" });
-    this.shadowRoot.appendChild(template.content.cloneNode(true));
+    let nextSiteIndex = matchedSiteIndex + 1;
+    if (nextSiteIndex >= sites.length) nextSiteIndex = 0;
 
-    // e.g. https://css-tricks.com
-    const thisSite = this.getAttribute("site");
 
-    fetch(DATA_FOR_WEBRING)
-      .then((response) => response.json())
-      .then((sites) => {
+    left.href = sites[prevSiteIndex].url;
+    right.href = sites[nextSiteIndex].url;
 
-        // Find the current site in the data
-        const matchedSiteIndex = sites.findIndex(
-          (site) => site.url === thisSite
-        );
-        const matchedSite = sites[matchedSiteIndex];
+  });
 
-        let prevSiteIndex = matchedSiteIndex - 1;
-        if (prevSiteIndex === -1) prevSiteIndex = sites.length - 1;
 
-        let nextSiteIndex = matchedSiteIndex + 1;
-        if (nextSiteIndex > sites.length) nextSiteIndex = 0;
 
-        const randomSiteIndex = this.getRandomInt(0, sites.length - 1);
 
-        const cp = `
-          <h1>the bucket webring :)</h1>
-          <p>
-            currently in: <a href="${matchedSite.url}">${matchedSite.name}</a> :)
-          </p>
 
-          <p>
-            <a href="${sites[prevSiteIndex].url}">[prev]</a>
-            <a href="${sites[nextSiteIndex].url}">[next]</a>
-            <a href="${sites[randomSiteIndex].url}">[random]</a>
-          </p>
-        `;
+function funheader(){
+  var parent = document.getElementById("header");
 
-        this.shadowRoot
-          .querySelector("#copy")
-          .insertAdjacentHTML("afterbegin", cp);
-      });
+  var string = "bucket ";
+  var string2 = "webring";
+  parent.innerHTML = "";
+  string.split("");
+  var i = 0, length = string.length;
+  for (i; i < length; i++) {
+      parent.innerHTML += "<span style='--n:"+ (100 * i - 1000 + 'ms') + ";'>" + string[i] + "</span>";
   }
+  parent.innerHTML += "<wbr>";
 
-  getRandomInt(min, max) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min + 1)) + min;
+  length2 = string2.length;
+  for (i; i < length2+length; i++) {
+      parent.innerHTML += "<span style='--n:"+ (100 * i - 1000 + 'ms') + ";'>" + string2[i-length] + "</span>";
   }
 }
 
-window.customElements.define("webring-css", WebRing);
+funheader()
