@@ -20,12 +20,9 @@
           --darkgreen: #3E885B;
           --darkblue: #7fb4f5;
 
-          --white: #fefefa;
-          --lightgray: #94B0C2;
-          --gray: #ADACB5;
-          --darkgray: #333C57;
-          --black: #454545;
-          --trueblack: #242424;
+
+          --background: #454545;
+
 
           --rainbowright: linear-gradient(to right, var(--red) 0%, var(--orange) 20%, var(--yellow) 40%, var(--green) 60%, var(--blue) 80%,  var(--purple) 100%);
       }
@@ -36,7 +33,7 @@
       }
 
       html {
-        background-color: #454545;
+        background-color: var(--background);
       }
 
       html, body {
@@ -134,7 +131,46 @@
   </body>
 
 
-  <script type="text/javascript" src="webring.js"></script>
+  <script>
+    const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/master/webring.json`;
+
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const lightmode = urlParams.get("lightmode");
+    const name = urlParams.get('name');
+
+    if (lightmode){
+      console.log("AAAA");
+
+      var r = document.querySelector(':root');
+      r.style.setProperty('--red', '#B80000');
+      r.style.setProperty('--orange', '#B88400');
+      r.style.setProperty('--yellow', '#B5B800');
+      r.style.setProperty('--green', '#00B815');
+      r.style.setProperty('--blue', '#0069CC');
+      r.style.setProperty('--purple', '#7030B0');
+      r.style.setProperty('--background', '#fefefa');
+      r.style.setProperty('--rainbowright', 'linear-gradient(to right, var(--red) 0%, var(--orange) 20%, var(--yellow) 40%, var(--green) 60%, var(--blue) 80%,  var(--purple) 100%)');
+      r.style.setProperty('--hrainbow', 'linear-gradient(to right, #FFFFFF00 0%, var(--lessred) 14%, var(--orange) 28%, var(--yellow) 42%, var(--green) 56%, var(--blue) 70%,  var(--lesspurple) 84%, #FFFFFF00 100%);');
+
+
+
+    }
+
+    const left = document.getElementById("prev")
+
+    const right = document.getElementById("next")
+
+
+    fetch(DATA_FOR_WEBRING)
+      .then((response) => response.json())
+      .then((sites) => {
+        left.href += "&name=" + name;
+        right.href += "&name=" + name;
+
+      });
+  </script>
+
   <script type="text/javascript" src="header.js"></script>
 
 

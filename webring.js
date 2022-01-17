@@ -11,22 +11,6 @@ const right = document.getElementById("next")
 fetch(DATA_FOR_WEBRING)
   .then((response) => response.json())
   .then((sites) => {
-
-    // Find the current site in the data
-    /*const matchedSiteIndex = sites.findIndex(
-      (site) => site.name === name
-    );
-    const matchedSite = sites[matchedSiteIndex];
-
-    let prevSiteIndex = matchedSiteIndex - 1;
-    if (prevSiteIndex === -1) prevSiteIndex = sites.length - 1;
-
-    let nextSiteIndex = matchedSiteIndex + 1;
-    if (nextSiteIndex >= sites.length) nextSiteIndex = 0;
-
-    left.href = sites[prevSiteIndex].url;
-    right.href = sites[nextSiteIndex].url;*/
-
     left.href += "&name=" + name;
     right.href += "&name=" + name;
 
