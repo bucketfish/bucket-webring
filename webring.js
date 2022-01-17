@@ -13,7 +13,7 @@ fetch(DATA_FOR_WEBRING)
   .then((sites) => {
 
     // Find the current site in the data
-    const matchedSiteIndex = sites.findIndex(
+    /*const matchedSiteIndex = sites.findIndex(
       (site) => site.name === name
     );
     const matchedSite = sites[matchedSiteIndex];
@@ -25,6 +25,9 @@ fetch(DATA_FOR_WEBRING)
     if (nextSiteIndex >= sites.length) nextSiteIndex = 0;
 
     left.href = sites[prevSiteIndex].url;
-    right.href = sites[nextSiteIndex].url;
+    right.href = sites[nextSiteIndex].url;*/
+
+    left.href += "&name=" + name;
+    right.href += "&name=" + name;
 
   });

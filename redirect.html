@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+
+    <title>redirecting · bucket webring</title>
+  </head>
+  <body>
+  </body>
+  <script>
+    const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/master/webring.json`;
+
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const name = urlParams.get('name');
+    const dir = urlParams.get('to');
+
+    fetch(DATA_FOR_WEBRING)
+      .then((response) => response.json())
+      .then((sites) => {
+
+        // Find the current site in the data
+        const matchedSiteIndex = sites.findIndex(
+          (site) => site.name === name
+        );
+        const matchedSite = sites[matchedSiteIndex];
+
+        if (dir == "prev"){
+          let prevSiteIndex = matchedSiteIndex - 1;
+          if (prevSiteIndex < 0) prevSiteIndex = sites.length - 1;
+          window.location.replace(sites[prevSiteIndex].url);
+        }
+
+        else if (dir == "next"){
+          let nextSiteIndex = matchedSiteIndex + 1;
+          if (nextSiteIndex >= sites.length) nextSiteIndex = 0;
+
+          window.location.replace(sites[nextSiteIndex].url);
+        }
+
+      });
+
+
+  </script>
+</html>
