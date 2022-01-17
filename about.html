@@ -9,7 +9,7 @@
     <h1 id="header">about</h1>
     <p><a href="index.html">⥼ back to index</a></p>
     <br/>
-    <p><strong> WEBRING IS CURRENTLY STILL IN DEVELOPMENT. MANY THINGS ARE STILL BEING CHANGED!</strong> to come: https, better mobile support, better embeds, instructions for carrd/custom embeds, light mode, and a few more.</p>
+    <p><strong>still a work in progress :)</strong></p>
     <br/>
     <p>the bucket webring was created in january 2022 and is currently managed by bucketfish.</p>
     <p> for issues or bugs or suggestions, open a pr on <a href="https://github.com/bucketfishy/bucket-webring">the github repo</a> or <a href="https://discord.gg/jcV4dM63Y2" target="_blank">find us on discord!</a></p>
@@ -29,18 +29,43 @@
     <p>alternatively, if you don't know how json or github works, you can also shoot me a message at <code>bucketfish#3961</code> on discord and i'll add you in.</p>
     <hr/>
 
-    <h2>embedding</h2>
+    <h2>adding an embed</h2>
     <p>you're highly encouraged to add this navbar to your site to allow users to navigate through the webring.</p>
-    <p>add the following iframe to your site, and replace YOURNAME with the name that you registered using:</p>
+    <p>if you are unable to add an iframe to your site (ie. if you use carrd or something), or if you want to make a custom navbar, skip to the next section :)</p>
+
+    <p>add the following iframe to your site, and replace <strong>your name</strong> with the name that you registered using:</p>
 
     <p><code>
-      &lt;iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=YOURNAME"&gt;&lt;/iframe&gt;
+      &lt;iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=<strong>your name</strong>"&gt;&lt;/iframe&gt;
     </code></p>
 
     <p>here's an example of what it looks like, with a border so you can see the size:</p>
     <iframe id="bucket-webring" style="width: 100%; height: 3rem; border: 1px white solid;" src="https://webring.bucketfish.me/embed.html?name=bucketfish"></iframe>
 
+    <p>alternatively, here's a light-mode version:</p>
+
+    <p><code>
+      &lt;iframe id="bucket-webring" style="width: 100%; height: 3rem; border: none;" src="https://webring.bucketfish.me/embed.html?name=<strong>your name</strong>&lightmode=true"&gt;&lt;/iframe&gt;
+    </code></p>
+
+    <iframe id="bucket-webring" style="width: 100%; height: 3rem; border: 1px white solid;" src="https://webring.bucketfish.me/embed.html?name=bucketfish&lightmode=true"></iframe>
+
     <p>unfortunately, due to how iframes work, you can't style the iframe content beyond the background color.</p>
+    <hr/>
+
+    <h2>custom embeds using redirect links</h2>
+    <p>if you can't add an embed, you can manually set up three links in your website: previous page, next page, and a link to the webring website.</p>
+
+    <p>here are the links that you should use:</p>
+    <ul>
+      <li><p>previous page: <code>https://webring.bucketfish.me/redirect.html?to=prev&amp;name=<strong>your name</strong></code></p></li>
+      <li><p>next page: <code>https://webring.bucketfish.me/redirect.html?to=next&amp;name=<strong>your name</strong></code></p></li>
+      <li><p>webring website: <code>https://webring.bucketfish.me</code></p></li>
+    </ul>
+
+    <p>keep these links close so it's clear that it's a part of one thing lol, and it would be nice if you write 'bucket webring' somewhere so people know what they're clicking. as always, feel free to ask if you need help :)</p>
+
+    <p>all the best!</p>
 
   </body>
 

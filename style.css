@@ -29,6 +29,8 @@
 
     --rainbowright: linear-gradient(to right, var(--red) 0%, var(--orange) 20%, var(--yellow) 40%, var(--green) 60%, var(--blue) 80%,  var(--purple) 100%);
     --hrainbow: linear-gradient(to right, #00000000 0%, var(--lessred) 14%, var(--orange) 28%, var(--yellow) 42%, var(--green) 56%, var(--blue) 70%,  var(--lesspurple) 84%, #00000000 100%);
+    --bgrainbow: linear-gradient(to right, var(--lessred) 0%, var(--lessorange) 20%, var(--lessyellow) 40%, var(--lessgreen) 60%, var(--lessblue) 80%,  var(--lesspurple) 100%);
+
 
 }
 
@@ -108,6 +110,20 @@ h2 {
 
 code {
   font-family: 'Courier New', monospace;
+}
+
+
+strong{
+  font-weight: 100;
+  background-color: var(--white);
+  background: var(--bgrainbow);
+  -webkit-background-clip: highlight;
+
+  color: var(--trueblack);
+  padding: 1px 2px;
+  box-sizing: content-box;
+  border-radius: 5px;
+
 }
 
 
