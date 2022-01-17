@@ -49,24 +49,13 @@ body {
 }
 
 
-@media (max-width: 720px)
-{
-  body {
-    width: 90%;
-  }
 
-  a:before {
-    height: 2px;
-    bottom: -2px;
-  }
-
-}
-
-p, a {
+p {
   font-size: 18px;
 }
 
 a {
+  font-size: inherit;
   display: inline-block;
   color: inherit;
   position: relative;
@@ -95,6 +84,10 @@ a:hover:before{
   width: 0;
 }
 
+
+li p{
+  margin: 5px 0;
+}
 
 hr {
   background-image: var(--hrainbow);
@@ -150,4 +143,25 @@ code {
   67% {color: var(--blue);}
   83% {color: var(--purple);}
   100% {color: var(--red);}
+}
+
+
+
+
+
+@media (max-width: 1024px)
+{
+  body {
+    width: 90%;
+  }
+
+  a:before {
+    height: 2px;
+    bottom: -2px;
+  }
+
+  h1 {
+    font-size: 32px;
+  }
+
 }
