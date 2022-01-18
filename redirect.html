@@ -21,7 +21,7 @@
 
         // Find the current site in the data
         const matchedSiteIndex = sites.findIndex(
-          (site) => site.name === name
+          (site) => site.name.toLowerCase() === name.toLowerCase()
         );
         const matchedSite = sites[matchedSiteIndex];
 
