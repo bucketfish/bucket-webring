@@ -1,5 +1,3 @@
-!!! CURRENTLY A WORK IN PROGRESS. do not add to stuff yet !!!
-
 # bucket webring!
 this is the github repo for the bucket webring. you can find more on the [website](https://webring.bucketfish.me).
 
