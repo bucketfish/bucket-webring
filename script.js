@@ -11,7 +11,7 @@ fetch(DATA_FOR_WEBRING)
     count.innerHTML = sites.length;
 
     for (var i = 0; i < sites.length; i++){
-      list.innerHTML += "<li><p><a href=" + sites[i].url + ">" + sites[i].name + "</a></p></li>";
+      list.innerHTML += "<div><p><a href=" + sites[i].url + ">" + sites[i].name + "</a></p></div>";
     }
 
 
