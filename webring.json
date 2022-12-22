@@ -1,6 +1,5 @@
 [
   { "name": "bucketfish", "url": "https://bucketfish.me" },
-  { "name": "amuffin", "url": "https://amuffin.is-a.dev" },
   { "name": "ijo Son", "url": "https://mathmaster13.github.io/" },
   { "name": "merrybot", "url": "https://berrymot.github.io/" },
   { "name": "Fern", "url": "https://ffernn-dev.github.io/" },
@@ -50,5 +49,6 @@
   { "name": "heav", "url": "https://heav.mondecitronne.com/" },
   { "name": "foreverliketh.is", "url": "https://foreverliketh.is/" },
   { "name": "sus", "url": "https://sus.fr/" },
-  { "name": "rwx4096", "url": "https://rwx4096.neocities.org/" }
+  { "name": "rwx4096", "url": "https://rwx4096.neocities.org/" },
+  { "name": "amuffin", "url": "https://amuffin.is-a.dev" }
 ]
