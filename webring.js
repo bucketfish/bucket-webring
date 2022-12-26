@@ -1,4 +1,4 @@
-const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfishy/bucket-webring/master/webring.json`;
+const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfish/bucket-webring/master/webring.json`;
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
