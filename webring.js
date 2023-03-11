@@ -2,7 +2,7 @@ const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfish/bucket-we
 
 const queryString = window.location.search;
 const urlParams = new URLSearchParams(queryString);
-const name = urlParams.get('name')
+const name = decodeURI(urlParams.get('name'));
 
 const left = document.getElementById("prev")
 
