@@ -106,5 +106,6 @@
   { "name": "crystal", "url": "https://crystal.tilde.institute" },
   { "name": "censorine", "url": "https://censorine.com" },
   { "name": "Eigen", "url": "https://varchar.neocities.org" },
-  { "name": "Astral", "url": "https://astralvrz.github.io/" }
+  { "name": "Astral", "url": "https://astralvrz.github.io/" },
+  { "name": "Wasp", "url": "https://punkwasp.leprd.space" }
 ]
