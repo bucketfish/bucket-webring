@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Simplified Navigator</title>
+    <style type="text/css">
+      .bucketfish span {
+        animation-delay: var(--n);
+        animation: bucket 1s linear var(--n) infinite forwards running;
+        position: relative;
+      }
+
+      .webring-navigator {
+        font-family: sans-serif;
+        font-size: 16px;
+        text-align: center;
+      }
+
+      .webring-navigator a,
+      .webring-navigator a:hover,
+      .webring-navigator a:visited {
+        color: #7777ff;
+        text-decoration: none;
+      }
+
+      @keyframes bucket {
+        0%   {color: #f93414; top: 0px;}
+        17%  {color: #f9b414;}
+        25%  {top: -2px;}
+        33%  {color: #e6f914;}
+        50%  {color: #14f942; top: 0px;}
+        67%  {color: #14caf9;}
+        75%  {top: 2px;}
+        83%  {color: #bd14f9;}
+        100% {color: #f91481; top: 0px;}
+      }
+    </style>
+    <script type="application/javascript">
+      function bucketWebring(elementId, siteName)
+      {
+        var elem = document.getElementById(elementId);
+        var span = "<span class=\"bucketfish\">";
+        var text = "bucket webring";
+        for (var i = 0; i < text.length; i++) {
+          span += "<span style=\"--n:" + (100 * i - 10000 + 'ms') + ";\">" + text.charAt(i) + "</span>";
+        }
+        span += "</span>";
+        elem.classList.add('webring-navigator');
+        elem.innerHTML = "<a href=\"https://webring.bucketfish.me/redirect.html?to=prev&name=" + siteName + "\">&laquo;&nbsp;prev</a>"
+                       + "&nbsp;<a href=\"https://webring.bucketfish.me/\">🏳️‍🌈&nbsp;<span class=\"bucketfish\">" + span + "</span>&nbsp;🏳️‍🌈</a>&nbsp;"
+                       + "<a href=\"https://webring.bucketfish.me/redirect.html?to=next&name=" + siteName + "\">next&nbsp;&raquo;</a>";
+
+      }
+
+      window.addEventListener('load', function(){bucketWebring('bucket-webring', '💕 Devastatia 💕');});
+    </script>
+  </head>
+    <body>
+      <p>Add the webring navigator with one function call.</p>
+      <div id="bucket-webring"></div>
+    </body>
+</html>
