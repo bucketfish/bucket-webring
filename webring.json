@@ -2,7 +2,6 @@
   { "name": "bucketfish", "url": "https://bucketfish.me" },
   { "name": "ijo Son", "url": "https://mathmaster13.github.io/" },
   { "name": "merrybot", "url": "https://berrymot.github.io/" },
-  { "name": "agarneo", "url": "https://agar.neocities.org" },
   { "name": "Fern", "url": "https://ffernn-dev.github.io/" },
   { "name": "freewheelingace", "url": "https://kyubinbrainrot.carrd.co/" },
   { "name": "ilo Kali", "url": "https://ilokali.neocities.org/" },
@@ -164,6 +163,7 @@
   { "name": "femishonuga", "url": "https://femishonuga.com" },
   { "name": "triPixel", "url": "https://tripixel.neocities.org" },
   { "name": "Icelogist", "url": "https://icelogist.nekoweb.org" },
-  { "name": "mossgreeneddie", "url": "https://deepintheforest.neocities.org/"}
+  { "name": "mossgreeneddie", "url": "https://deepintheforest.neocities.org/"},
+  { "name": "agarneo", "url": "https://agar.neocities.org" }
 
 ]
