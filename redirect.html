@@ -40,6 +40,11 @@
           window.location.replace(sites[nextSiteIndex].url);
         }
 
+        else if (dir == "random"){
+          const randomSiteIndex = Math.floor(Math.random() * sites.length);
+          window.location.replace(sites[randomSiteIndex].url);
+        }
+
       });
 
 
