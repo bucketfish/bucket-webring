@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <link rel="icon" type="image/jpg" href="assets/favicon.jpg" />
+    <title>random · bucket webring</title>
+
+    <script async>
+      const DATA_FOR_WEBRING = `https://raw.githubusercontent.com/bucketfish/bucket-webring/master/webring.json`;
+      fetch(DATA_FOR_WEBRING)
+        .then((response) => response.json())
+        .then((sites) => {
+          window.location.replace(sites[Math.floor(Math.random()*sites.length)]["url"]);
+        });
+    </script>
+  </head>
+  <body></body>
+</html>
