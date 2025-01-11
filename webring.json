@@ -149,7 +149,7 @@
   { "name": "eva.town", "url": "https://eva.town/webrings" },
   { "name": "Maven", "url": "https://maven.pages.gay"},
   { "name": "marshdotcom", "url": "https://marshdotcom.neocities.org" },
-  { "name": "poz", "url": "https://jacekpoz.pl" },
+  { "name": "poz", "url": "https://poz.pet" },
   { "name": "dostoynikov", "url": "https://dostoynikov.bearblog.dev"},
   { "name": "haetae", "url": "https://haetae.pages.gay/" },
   { "name": "agarneo", "url": "https://agar.neocities.org" },
@@ -232,5 +232,8 @@
   { "name": "TheL3tterM", "url": "https://thel3tterm.com/" },
   { "name": "bulltown.neo", "url": "https://bulltown.neocities.org/" },
   { "name": "ALTk", "url": "https://altk.xyz" },
+  { "name": "expect", "url": "https://whatdidyouexpect.eu" },
+  { "name": "psyclone", "url": "https://psyclone.nekoweb.org" },
+  { "name": "Spacey!", "url": "https://spaceybread.github.io/" },
   { "name": "THT's den", "url": "https://theholytachanka.com" }
 ]
