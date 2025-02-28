@@ -139,8 +139,14 @@
     const queryString = window.location.search;
     const urlParams = new URLSearchParams(queryString);
     const lightmode = urlParams.get("lightmode");
+    const colour = urlParams.get("colour");
     const name = urlParams.get('name');
 
+    if (colour){
+      var r = document.querySelector(':root');
+      r.style.setProperty('--background', colour);
+    }
+      
     if (lightmode){
       console.log("AAAA");
 
