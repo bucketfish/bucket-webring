@@ -209,7 +209,7 @@
   { "name": "kiyo", "url": "https://kiyo.ncat.cafe/" },
   { "name": "dc.XYZ", "url": "https://dominiccook.xyz" },
   { "name": "zestpunk", "url": "https://zestpunk.nekoweb.org/" },
-  { "name": "magnets", "url": "https://mothmothmothmoth.neocities.org/" },
+  { "name": "magnets", "url": "https://electro-magnets.neocities.org/" },
   { "name": "~hedy", "url": "https://home.hedy.dev/" },
   { "name": "JessAndKimn", "url": "https://kimn.neocities.org" },
   { "name": "eugodr", "url": "https://eugodr.net/" },
@@ -258,7 +258,7 @@
   { "name": "RoBaertschi", "url": "https://robaertschi.xyz/" },
   { "name": "jbcarreon123", "url": "https://jbcarreon123.nekoweb.org/" },
   { "name": "Theepicosity", "url": "http://theepicosity.space/" },
-  { "name": "spagwhetti", "url": "https://spag.site/" },
+  { "name": "spagwhetti", "url": "https://daisy.nekoweb.org" },
   { "name": "ivy's home", "url": "https://ivrry.nekoweb.org" },
   { "name": "northomepc", "url": "https://wiizard.teacake.org/" },
   { "name": "Cantinho do Argon", "url": "https://argonptg.neocities.org" },
@@ -267,5 +267,6 @@
   { "name": "Obscou", "url": "https://obscou.pages.dev" },
   { "name": "skylerzap", "url": "https://skylerzap.com" },
   { "name": "bugwatcher", "url": "https://bugwatcher.nekoweb.org/" },
+  { "name": "sunniva", "url": "https://sunniva.garden/en/webring" },
   { "name": "alvaniss", "url": "https://alvaniss.neocities.org/" }
 ]
