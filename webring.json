@@ -170,7 +170,7 @@
   { "name": "vulpecula", "url": "https://vulpecula.neocities.org/" },
   { "name": "~tomxcd", "url": "https://derg.rest" },
   { "name": "pnda.space", "url": "https://pnda.space" },
-  { "name": "natalie", "url": "https://nat.envs.sh/" },
+  { "name": "natalie", "url": "https://nat.envs.net/" },
   { "name": "aketawi", "url": "https://www.aketawi.space/" },
   { "name": "lina", "url": "https://amalinalai.github.io/precipice/" },
   { "name": "Dazhak", "url": "https://dogspit.nekoweb.org" },
@@ -237,7 +237,7 @@
   { "name": "THT's den", "url": "https://theholytachanka.com" },
   { "name": "jackpurrin’s cyberspace", "url": "https://jackpurrin.me/" },
   { "name": "Nova", "url": "https://pastel-skies.nekoweb.org" },
-  { "name": "CyberEcho", "url": "https://cyber-echo.pages.dev/" },
+  { "name": "Sam", "url": "https://samsucksatwebsites.pages.dev/" },
   { "name": "Flow", "url": "https://flowtyle.neocities.org/" },
   { "name": "Deva Midhun", "url": "https://coder.is-a.dev" },
   { "name": "JollyJolli", "url": "https://webring.formen.cc/" },
@@ -270,5 +270,6 @@
   { "name": "sunniva", "url": "https://sunniva.garden/en/webring" },
   { "name": "alvaniss", "url": "https://alvaniss.neocities.org/" },
   { "name": "ceridwen15", "url": "https://ceridwen15.gay/" },
+  { "name": "qswitch", "url": "https://qswitch.neocities.org" },
   { "name": "mocha8686", "url": "https://mocha8686.neocities.org" }
 ]
