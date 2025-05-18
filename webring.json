@@ -255,7 +255,7 @@
   { "name": "Gaiety.me", "url": "https://gaiety.me/" },
   { "name": "onthe12thfloor", "url": "https://onthe12thfloor.com/" },
   { "name": "myon", "url": "https://myon.xyz/" },
-  { "name": "RoBaertschi", "url": "https://robaertschi.xyz/" },
+  { "name": "RoBaertschi", "url": "https://robaertschi.me/" },
   { "name": "jbcarreon123", "url": "https://jbcarreon123.nekoweb.org/" },
   { "name": "Theepicosity", "url": "http://theepicosity.space/" },
   { "name": "spagwhetti", "url": "https://daisy.nekoweb.org" },
@@ -283,5 +283,6 @@
   { "name": "hainesnoids", "url": "https://ws4k.net/" },
   { "name": "David Umoru", "url": "https://davidumoru.me/" },
   { "name": "e1ke", "url": "https://silverkush.de/" },
-  { "name": "bac", "url": "https://backtick.nekoweb.org" }
+  { "name": "bac", "url": "https://backtick.nekoweb.org" },
+  { "name": "snails", "url": "https://snails.neocities.org"}
 ]
