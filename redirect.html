@@ -30,12 +30,19 @@
         if (dir == "prev"){
           let prevSiteIndex = matchedSiteIndex - 1;
           if (prevSiteIndex < 0) prevSiteIndex = sites.length - 1;
+          while (sites[prevSiteIndex].name.charAt(0) == "!"){
+            prevSiteIndex += 1;
+          }
+
           window.location.replace(sites[prevSiteIndex].url);
         }
 
         else if (dir == "next"){
           let nextSiteIndex = matchedSiteIndex + 1;
           if (nextSiteIndex >= sites.length) nextSiteIndex = 0;
+          while (sites[nextSiteIndex].name.charAt(0) == "!"){
+            nextSiteIndex += 1;
+          }
 
           window.location.replace(sites[nextSiteIndex].url);
         }

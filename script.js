@@ -22,6 +22,8 @@ function convertHTML(str) {
     let regex = new RegExp(regexKeys[i], 'g');
     result = result.replace(regex, regexTable[regexKeys[i]]);
   }
+  
+  result = (result.charAt(0) == "!") ? result.slice(1) : result;
 
   return result;
 }
@@ -32,8 +34,9 @@ fetch(DATA_FOR_WEBRING)
     count.innerHTML = sites.length;
 
     for (var i = 0; i < sites.length; i++){
-      list.innerHTML += "<div><p><a href=" + sites[i].url + ">" + convertHTML(sites[i].name) + "</a></p></div>";
+      const siteName = convertHTML(sites[i].name);
+      const siteSpanOpenTag = (sites[i].name.charAt(0) == "!") ? '<span class="inactive">' : '<span>';
+      const siteNameEntry = siteSpanOpenTag + siteName + '</span>';
+      list.innerHTML += "<div><p><a href=" + sites[i].url + ">" + siteNameEntry + "</a></p></div>";
     }
-
-
   });
