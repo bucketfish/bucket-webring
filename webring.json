@@ -1,385 +1,346 @@
 [
-  { "name": "bucketfish", "url": "https://bucketfish.me" },
-  { "name": "Fern", "url": "https://ffernn.me/" },
-  { "name": "freewheelingace", "url": "https://kyubinbrainrot.carrd.co/" },
-  { "name": "ilo Kali", "url": "https://ilokali.neocities.org/" },
-  { "name": "stickertime", "url": "https://stickertime.neocities.org/" },
-  { "name": "munvoseli", "url": "https://munvoseli.github.io/" },
-  { "name": "aspen", "url": "https://aspenland.neocities.org" },
-  { "name": "Gray", "url": "https://graystea.neocities.org/" },
-  { "name": "Vaea V", "url": "https://itsvaeav.nekoweb.org/" },
-  { "name": "Suntooth", "url": "https://suntooth.neocities.org/" },
-  { "name": "lime360", "url": "https://lime360.neocities.org/" },
-  { "name": "amby", "url": "https://ambylastname.xyz/" },
-  { "name": "ara", "url": "https://mynameisashllee.neocities.org/" },
-  {
-    "name": "4nf95q643hf8wy4987fqn",
-    "url": "https://tetrakis.flounder.online/"
-  },
-  { "name": "swiftyshq", "url": "https://swiftyshq.neocities.org/" },
-  { "name": "cranknet", "url": "https://cranknet.com/" },
-  { "name": "bacon", "url": "https://bestbaconhair.neocities.org/" },
-  { "name": "juette", "url": "https://mothcore.neocities.org/" },
-  { "name": "Ampersandia", "url": "https://ampersandia.net/" },
-  { "name": "Seirdy", "url": "https://seirdy.one/" },
-  { "name": "AustinHuang.me", "url": "https://austinhuang.me" },
-  { "name": "BlackPirateX", "url": "https://blackpiratex.com" },
-  { "name": "Fishy Pug Bruh", "url": "https://fishypugbruh.neocities.org/" },
-  { "name": "simply.", "url": "https://simply.jenett.org/" },
-  { "name": "rarimena", "url": "https://rarimena.neocities.org/" },
-  { "name": "Laker T.", "url": "https://laker.tech/meta/others" },
-  { "name": "jmibo", "url": "https://jmibo.neocities.org" },
-  { "name": "microsynthera", "url": "https://microsynthera.neocities.org" },
-  { "name": "motan", "url": "https://motan.works" },
-  { "name": "44nifty", "url": "https://44nifty.com" },
-  { "name": "chii", "url": "https://chiitopia.neocities.org/" },
-  { "name": "Rain", "url": "https://rainmirage.neocities.org/" },
-  { "name": "Tsuki", "url": "https://tsk.bearblog.dev/" },
-  { "name": "soopyc", "url": "https://soopy.moe/" },
-  { "name": "AKBatten", "url": "https://akbatten.com" },
-  { "name": "O2C", "url": "https://owencompher.me" },
-  { "name": "Bits", "url": "https://bitsdev.neocities.org" },
-  { "name": "asnev", "url": "https://asnev.neocities.org/" },
-  { "name": "heav", "url": "https://heav.mondecitronne.com/" },
-  { "name": "foreverliketh.is", "url": "https://foreverliketh.is/" },
-  { "name": "sus", "url": "https://sus.fr/" },
-  { "name": "rwx4096", "url": "https://rwx4096.neocities.org/" },
-  { "name": "amuffin", "url": "https://amuffin.is-a.dev" },
-  { "name": "tarraxahum", "url": "https://tarraxahum.neocities.org/" },
-  { "name": "brisray", "url": "https://brisray.com/" },
-  { "name": "Whey_Isolate", "url": "https://whey-isolate.neocities.org/" },
-  { "name": "Obspogon", "url": "https://obspogon.neocities.org/" },
-  { "name": "Fox", "url": "https://empiressmp.gay/" },
-  { "name": "alisonc", "url": "https://alisonc.net/" },
-  { "name": "Epic", "url": "https://epic1.neocities.org/" },
-  { "name": "screamingegg", "url": "https://screamingegg.neocities.org/" },
-  { "name": "isopod", "url": "https://isopod.cool/" },
-  { "name": "lipamanka", "url": "https://lipamanka.gay/" },
-  { "name": "nucleus", "url": "https://nucleus.neocities.org" },
-  { "name": "Hyena Network", "url": "https://hyena.network/geocity/" },
-  { "name": "kebokyo", "url": "https://eleboog.com" },
-  { "name": "The Arcade", "url": "https://articexploit.xyz" },
-  { "name": "shinto", "url": "https://theabsoluterealm.com" },
-  { "name": "shumyumi", "url": "https://themikupretenderv2.neocities.org/" },
-  { "name": "Skykristal", "url": "https://skykristal.art" },
-  { "name": "🆂🅿🅰🅲🅴👽🅱🅰🆁", "url": "https://space-bar.neocities.org/" },
-  { "name": "ORION ☆", "url": "https://orion-overdrive.neocities.org" },
-  { "name": "Daryl Sun", "url": "https://blog.darylsun.page/" },
-  { "name": "Pixel Safari", "url": "https://pixelsafari.neocities.org/" },
-  { "name": "Höllenreiter", "url": "https://hollenreiter.neocities.org" },
-  {
-    "name": "Aradia Collective for Magical Girl Comics",
-    "url": "https://aradiacollective.com"
-  },
-  { "name": "Am Weird!", "url": "https://amweird.neocities.org/" },
-  {
-    "name": "aster's asterisms!'",
-    "url": "https://asters-asterisms.neocities.org/"
-  },
-  { "name": "cobyzaby", "url": "https://cobyzaby.neocities.org/" },
-  { "name": "basementcommunity", "url": "https://basementcommunity.com" },
-  { "name": "GodNinja69", "url": "https://gn69.neocities.org" },
-  { "name": "NonGMOTrash", "url": "https://nongmotrash.github.io/" },
-  { "name": "Aio", "url": "https://theaio.neocities.org/main" },
-  { "name": "freya", "url": "https://freya.cat" },
-  { "name": "cajeck", "url": "https://cajecks-lair.neocities.org/" },
-  { "name": "Skell", "url": "https://skull-aton.neocities.org" },
-  { "name": "syrupnx", "url": "https://syrupnx.space" },
-  { "name": "marty", "url": "https://kirkmania.neocities.org/#one" },
-  { "name": "Speyll", "url": "https://speyllsite.pages.dev/" },
-  { "name": "The Cozy Cat", "url": "https://www.thecozy.cat/" },
-  { "name": "milliewebby", "url": "https://milliewebby.neocities.org/" },
-  { "name": "Veyther", "url": "https://veyther.neocities.org/" },
-  { "name": "Ema", "url": "https://emmabelotti.neocities.org" },
-  { "name": "etbcor", "url": "https://etbcor.com/" },
-  { "name": "Streamm", "url": "https://streamm-pandaroux.neocities.org/" },
-  { "name": "centiskor.ch", "url": "https://centiskor.ch/" },
-  { "name": "bonki", "url": "https://bonkiscoolsite.neocities.org/" },
-  { "name": "authen", "url": "https://authen.neocities.org/" },
-  { "name": "bfc", "url": "https://baccyflap.com/" },
-  { "name": "crystal", "url": "https://crystal.tilde.institute" },
-  { "name": "censorine", "url": "https://censorine.com" },
-  { "name": "Astral", "url": "https://astralvrz.github.io/" },
-  {
-    "name": "Birthplace of the Process of Illogical Logic",
-    "url": "https://www.nickifaulk.com/"
-  },
-  {
-    "name": "Rings around the Internet",
-    "url": "https://fanlistings.nickifaulk.com/webrings/"
-  },
-  { "name": "jackdaw", "url": "https://skyhold.org/" },
-  { "name": "Wasp", "url": "https://punkwasp.leprd.space" },
-  { "name": "Oscar", "url": "https://goofysillygoober.neocities.org/" },
-  { "name": "bigtub", "url": "https://bigtub.neocities.org" },
-  { "name": "WebWizard", "url": "https://webwizard.ichi.city" },
-  { "name": "PatchMixolydic", "url": "https://patchmixolydic.com" },
-  { "name": "fin600", "url": "https://fin600.slime.place" },
-  { "name": "constantine", "url": "https://shenaniganery.neocities.org/home" },
-  { "name": "Dophelsinette.", "url": "https://a-quiet-room.neocities.org/" },
-  { "name": "matty", "url": "https://transatlanticism.neocities.org/" },
-  { "name": "Strix!", "url": "https://mormoroi.com/" },
-  { "name": "gala", "url": "https://gala-kyklos.neocities.org" },
-  { "name": "maria", "url": "https://maria.town" },
-  {
-    "name": "arandominternetuser",
-    "url": "https://arandomsite.neocities.org/"
-  },
-  { "name": "dustedpink", "url": "https://dustedpink.neocities.org/" },
-  { "name": "aceynk", "url": "https://aceynk.neocities.org" },
-  { "name": "manyface", "url": "https://manyface.neocities.org/" },
-  { "name": "exlitry.world", "url": "https://exlitry.world" },
-  { "name": "andrew", "url": "https://andrewslair.org" },
-  { "name": "varve", "url": "https://www.write-on.org/" },
-  { "name": "Argentnoelle", "url": "https://argentnoelle.neocities.org/" },
-  { "name": "kulijo", "url": "https://kulijo.neocities.org/" },
-  { "name": "bass drop", "url": "https://bassdrop.club/" },
-  { "name": "Itzz Me", "url": "https://itzzcode.github.io" },
-  { "name": "Cryptie!", "url": "https://www.cryptie.dev/" },
-  { "name": "verybittericecream", "url": "https://oerrorpage.neocities.org" },
-  { "name": "astrid dot tech", "url": "https://www.astrid.tech/" },
-  { "name": "ari dot lt", "url": "https://ari.lt/" },
-  { "name": "Onedear", "url": "https://onedear.neocities.org/" },
-  { "name": "Vill🅐 Pirorum", "url": "https://villepreux.net/" },
-  { "name": "aRandomMenno", "url": "https://aRandomMenno.github.io/" },
-  { "name": "MiLKYWaY", "url": "https://milkyway.moe/" },
-  { "name": "Kyo", "url": "https://oliscrabwife.neocities.org/" },
-  { "name": "Lydia", "url": "https://lyd.city/" },
-  { "name": "evil benny", "url": "https://lopster.neocities.org/" },
-  { "name": "bee :3", "url": "https://bee.nekoweb.org/" },
-  { "name": "remblanc", "url": "https://remblanc.nekoweb.org/" },
-  { "name": "circular", "url": "https://circulars.dev/" },
-  { "name": "xv1", "url": "https://xv1.neocities.org/" },
-  { "name": "allissa", "url": "https://itzzen.net/" },
-  { "name": "patrickwu", "url": "https://patrickwu.space/" },
-  { "name": "skatuya", "url": "https://literallyfictional.neocities.org/" },
-  { "name": "pixeldesu", "url": "https://pixelde.su/" },
-  { "name": "Yonah", "url": "https://emiw.nekoweb.org" },
-  { "name": "maebeenot", "url": "https://coolbugs.win" },
-  { "name": "Tommi", "url": "https://tommi.space" },
-  { "name": "cascading.space", "url": "https://cascading.space" },
-  { "name": "triPixel", "url": "https://tripixel.neocities.org" },
-  { "name": "Icelogist", "url": "https://icelogist.nekoweb.org" },
-  { "name": "mossgreeneddie", "url": "https://deepintheforest.neocities.org/" },
-  { "name": "blitzw.in", "url": "https://www.blitzw.in/" },
-  { "name": "eva.town", "url": "https://eva.town/webrings" },
-  { "name": "Maven", "url": "https://maven.pages.gay" },
-  { "name": "marshdotcom", "url": "https://marshdotcom.neocities.org" },
-  { "name": "poz", "url": "https://poz.pet" },
-  { "name": "dostoynikov", "url": "https://dostoynikov.bearblog.dev" },
-  { "name": "haetae", "url": "https://haetae.pages.gay/" },
-  { "name": "agarneo", "url": "https://bublz.us" },
-  { "name": "ReptileOrange", "url": "https://reptilian.monster/" },
-  { "name": "iluvwerewolves", "url": "https://iluvwerewolves.nekoweb.org/" },
-  { "name": "illuc", "url": "https://home.illuc.xyz/" },
-  { "name": "yetiuard", "url": "https://yetiuard.wtf/" },
-  { "name": "Yordi", "url": "https://yordi.me/" },
-  { "name": "Malingen", "url": "https://lules-oddities.vercel.app/" },
-  { "name": "MarkAssPandi", "url": "https://kamila.pet" },
-  { "name": "Leilukin", "url": "https://leilukin.com/" },
-  { "name": "Zachary Kai", "url": "https://zacharykai.net" },
-  { "name": "Angelwood", "url": "https://angelwood.xyz/" },
-  { "name": "crumpetalpaca", "url": "https://crumpetalpaca.xyz/" },
-  { "name": "dstbnnyjp", "url": "https://dustbunnybedroom.neocities.org/" },
-  { "name": "lars dot info", "url": "https://larsfrommars.neocities.org" },
-  { "name": "Tori Hall", "url": "https://toriii.neocities.org/" },
-  { "name": "☹️☹️☹️.ovh", "url": "https://sad.ovh" },
-  { "name": "vulpecula", "url": "https://vulpecula.neocities.org/" },
-  { "name": "~tomxcd", "url": "https://derg.rest" },
-  { "name": "pnda.space", "url": "https://pnda.space" },
-  { "name": "natalie", "url": "https://nat.envs.net/" },
-  { "name": "aketawi", "url": "https://www.aketawi.space/" },
-  { "name": "lina", "url": "https://amalinalai.github.io/precipice/" },
-  { "name": "Dazhak", "url": "https://dogspit.nekoweb.org" },
-  { "name": "Lyrenhex", "url": "https://lyrenhex.com" },
-  { "name": "cicadastatic", "url": "https://cicadastatic.neocities.org/" },
-  { "name": "u1trav101et", "url": "https://u1trav101.net/" },
-  { "name": "RomOS", "url": "https://mxbo.neocities.org" },
-  { "name": "Cloudhiker", "url": "https://cloudhiker.neocities.org" },
-  { "name": "zeroptr", "url": "https://zptr.cc" },
-  { "name": "enky", "url": "https://enky.neocities.org" },
-  { "name": "reiyua", "url": "https://reiyua.neocities.org" },
-  { "name": "robbi", "url": "https://journal.robbi.my" },
-  { "name": "ThinLiquid", "url": "https://thinliquid.dev" },
-  { "name": "Lunya.pet", "url": "https://lunya.nekoweb.org" },
-  { "name": "Coding Otaku", "url": "https://codingotaku.com" },
-  { "name": "kino", "url": "https://onthequiet.nekoweb.org/" },
-  { "name": "Sertimus", "url": "https://sertimus.xyz" },
-  { "name": "guavajelly", "url": "https://bigfatgorilla.com" },
-  { "name": "jay", "url": "https://firefairy.neocities.org/" },
-  { "name": "tiago", "url": "https://tiago.zip/?ref=bucketfish" },
-  { "name": "Cbass92", "url": "https://cbass92.org/" },
-  {
-    "name": "beau's silly folder",
-    "url": "https://beaus-silly-folder.nekoweb.org"
-  },
-  { "name": "Rain Parade", "url": "https://rainparade.nekoweb.org/" },
-  { "name": "kuuriii", "url": "https://starlightreverie.garden/" },
-  { "name": "andigandhi", "url": "https://andi.grasserisen.de/" },
-  { "name": "Lira", "url": "https://lira.kraamwinkel.be/" },
-  { "name": "Rishikesh", "url": "https://rishikeshs.com/" },
-  { "name": "locket", "url": "https://pinkpasture.neocities.org/" },
-  { "name": "neptune", "url": "https://xpvm.net" },
-  { "name": "Tom Brandis", "url": "https://tombrandis.uk/" },
-  { "name": "Eniuu", "url": "https://eniuu.debil.club/" },
-  { "name": "Vee", "url": "https://ivycryptid.nekoweb.org/index.html" },
-  { "name": "mrkod", "url": "https://mrkod.eu.org/" },
-  { "name": "computerguts", "url": "https://computerguts.neocities.org" },
-  { "name": "kiyo", "url": "https://kiyo.ncat.cafe/" },
-  { "name": "dc.XYZ", "url": "https://dominiccook.xyz" },
-  { "name": "zestpunk", "url": "https://zestpunk.nekoweb.org/" },
-  { "name": "magnets", "url": "https://electro-magnets.neocities.org/" },
-  { "name": "~hedy", "url": "https://home.hedy.dev/" },
-  { "name": "JessAndKimn", "url": "https://kimn.neocities.org" },
-  { "name": "eugodr", "url": "https://eugodr.net/" },
-  { "name": "<cannabidiol>", "url": "https://cannabidiol.nekoweb.org/" },
-  {
-    "name": "<graphic dispensary>",
-    "url": "https://tetrahydrocannabinol.nekoweb.org/"
-  },
-  { "name": "sugarhouse", "url": "https://sugarhouse.neocities.org" },
-  { "name": "appak", "url": "https://appak.neocities.org" },
-  { "name": "myrdin", "url": "https://myrdin.cx/" },
-  { "name": "john", "url": "https://johngriffin.neocities.org/" },
-  { "name": "feyradio", "url": "https://feyradio.moe/" },
-  { "name": "vcrid", "url": "https://vcrid.art/" },
-  { "name": "coffeeknife", "url": "https://coffeeknife.nekoweb.org" },
-  { "name": "kingdra.net", "url": "https://kingdra.net" },
-  {
-    "name": "The Iron Ragdoll",
-    "url": "https://tofutush.github.io/The-Iron-Ragdoll"
-  },
-  { "name": "Lockheart Love", "url": "https://lockheartlove.netlify.app" },
-  { "name": "artur", "url": "https://unartur.de" },
-  { "name": "storm", "url": "https://stormbrary.neocities.org/" },
-  { "name": "ivyyy", "url": "https://cosyivy.xyz" },
-  { "name": "TheL3tterM", "url": "https://thel3tterm.com/" },
-  { "name": "bulltown.neo", "url": "https://bulltown.neocities.org/" },
-  { "name": "ALTk", "url": "https://altk.xyz" },
-  { "name": "expect", "url": "https://whatdidyouexpect.eu" },
-  { "name": "psyclone", "url": "https://psyclone.nekoweb.org" },
-  { "name": "Spacey!", "url": "https://spaceybread.github.io/" },
-  { "name": "THT's den", "url": "https://theholytachanka.com" },
-  { "name": "jackpurrin’s cyberspace", "url": "https://jackpurrin.me/" },
-  { "name": "Nova", "url": "https://pastel-skies.nekoweb.org" },
-  { "name": "Sam", "url": "https://orbitt.sbs/" },
-  { "name": "Flow", "url": "https://flowtyle.neocities.org/" },
-  { "name": "Deva Midhun", "url": "https://coder.is-a.dev" },
-  { "name": "JollyJolli", "url": "https://webring.formen.cc/" },
-  { "name": "Yung Higue", "url": "https://www.yunghigue.com/" },
-  {
-    "name": "The Dressed Mole-Rat",
-    "url": "https://thedressedmolerat.github.io/"
-  },
-  { "name": "xduskashesreal", "url": "https://xduskashesreal.nekoweb.org/" },
-  { "name": "AtomicBolts", "url": "https://atomicbolts.nekoweb.org/" },
-  { "name": "Xan", "url": "https://xan.lol" },
-  { "name": "Tapeykatt", "url": "https://tapeykatt.neocities.org" },
-  { "name": "Tsugu", "url": "https://tsugu.xyz" },
-  { "name": "ReduxFlakes", "url": "https://reduxflakes.nekoweb.org/" },
-  { "name": "sprite", "url": "https://riflesniper.art/" },
-  { "name": "MilesWK", "url": "https://www.mileswk.com/" },
-  { "name": "DragonnFire", "url": "http://johnbot.org" },
-  { "name": "Gaiety.me", "url": "https://gaiety.me/" },
-  { "name": "onthe12thfloor", "url": "https://onthe12thfloor.com/" },
-  { "name": "myon", "url": "https://myon.xyz/" },
-  { "name": "RoBaertschi", "url": "https://robaertschi.me/" },
-  { "name": "jbcarreon123", "url": "https://jbcarreon123.nekoweb.org/" },
-  { "name": "Theepicosity", "url": "http://theepicosity.space/" },
-  { "name": "spagwhetti", "url": "https://spaghetti.nekoweb.org" },
-  { "name": "ivy's home", "url": "https://ivrry.nekoweb.org" },
-  { "name": "Cantinho do Argon", "url": "https://argonptg.neocities.org" },
-  { "name": "fernwaves", "url": "https://fernwaves.neocities.org" },
-  { "name": "Abby", "url": "https://abbylikestodraw.neocities.org/" },
-  { "name": "Obscou", "url": "https://obscou.pages.dev" },
-  { "name": "skylerzap", "url": "https://skylerzap.com" },
-  { "name": "bugwatcher", "url": "https://bugwatcher.nekoweb.org/" },
-  { "name": "sunniva", "url": "https://sunniva.garden/en/webring" },
-  { "name": "alvaniss", "url": "https://alvaniss.neocities.org/" },
-  { "name": "ceridwen15", "url": "https://ceridwen15.gay/" },
-  { "name": "qswitch", "url": "https://qswitch.neocities.org" },
-  { "name": "mocha8686", "url": "https://mocha8686.neocities.org" },
-  { "name": "Taevas", "url": "https://taevas.xyz" },
-  { "name": "wenkicai", "url": "https://wenkicai.neocities.org/" },
-  { "name": "nix", "url": "https://nixxx420.neocities.org/" },
-  { "name": "okt", "url": "https://okt.nekoweb.org/" },
-  { "name": "mini", "url": "https://dospuntostr.es/en/" },
-  { "name": "Arielle", "url": "https://arielsalminen.com/webrings/" },
-  { "name": "Ayo", "url": "https://ayo.ayco.io/" },
-  { "name": "D", "url": "https://lnaba.reisen/" },
-  { "name": "exclave", "url": "https://exclave.city/waterfront.html" },
-  { "name": "hainesnoids", "url": "https://ws4k.net/" },
-  { "name": "David Umoru", "url": "https://davidumoru.me/" },
-  { "name": "e1ke", "url": "https://silverkush.de/" },
-  { "name": "bac", "url": "https://backtick.nekoweb.org" },
-  { "name": "snails", "url": "https://snails.neocities.org" },
-  { "name": "monocyte", "url": "https://monocyte.bearblog.dev" },
-  { "name": "Gabriel GGR", "url": "https://gabrielggr.us.to" },
-  { "name": "kiraneko", "url": "https://kiraneko.me" },
-  { "name": "ThePlateaus", "url": "https://theplateaus.neocities.org" },
-  { "name": "EtherTech", "url": "https://ethertech.org" },
-  { "name": "jjanzen", "url": "https://jjanzen.ca" },
-  {
-    "name": "portfolio de lili",
-    "url": "https://portfoliodelili.neocities.org"
-  },
-  { "name": "jelloeater", "url": "https://jelloeater.me" },
-  { "name": "alexzeecomedy", "url": "https://alexzeecomedy.com" },
-  { "name": "piksal", "url": "https://jnle.dev/" },
-  { "name": "alex_groth", "url": "https://tanwar.dev" },
-  { "name": "GhostNoise", "url": "https://www.ghostnoise.ru" },
-  { "name": "Biverom", "url": "https://biverom.dev" },
-  { "name": "toriii", "url": "https://toriii.nekoweb.org" },
-  { "name": "riley", "url": "https://riley-tech.de" },
-  { "name": "The Cerulean Snake", "url": "https://theceruleansnake.com" },
-  { "name": "op0sit", "url": "https://op0sit.github.io" },
-  { "name": "Mayumi", "url": "https://solanum.works" },
-  { "name": "petrapixel", "url": "https://petrapixel.neocities.org/" },
-  { "name": "math2w", "url": "https://math2w.com/" },
-  {
-    "name": "Pan Continental Airways",
-    "url": "https://pancontinental.nekoweb.org"
-  },
-  { "name": "Melvian", "url": "https://melvian.net" },
-  { "name": "lexm", "url": "http://lexm.leprd.space" },
-  {
-    "name": "mary cuntrarian",
-    "url": "https://marycontrarian.neocities.org/blog/bloghome"
-  },
-  { "name": "polserull", "url": "https://polserull.co.uk/" },
-  { "name": "Sarindipity", "url": "https://sarindipity.com" },
-  { "name": "maze", "url": "https://puzzleheadedpie.neocities.org/" },
-  { "name": "zurdala", "url": "https://www.zurdala.es" },
-  { "name": "prigoana.com", "url": "https://prigoana.com/" },
-  { "name": "PhyoTP", "url": "https://phyotp.dev" },
-  { "name": "arav narula", "url": "https://radioblahaj.com" },
-  { "name": "C.Ezra.M", "url": "https://cezram.neocities.org" },
-  { "name": "kimberlygb", "url": "https://kimberlygb.nekoweb.org/" },
-  { "name": "sheep", "url": "https://sheep.nekoweb.org/" },
-  { "name": "praised", "url": "https://praised.nekoweb.org/" },
-  { "name": "Meander97", "url": "https://meander97.neocities.org/" },
-  { "name": "tiiimezombie", "url": "https://tiiimezombie.neocities.org/" },
-  { "name": "31a05b9c", "url": "https://www.31a05b.net/" },
-  { "name": "moya.cafe", "url": "https://moya.cafe/" },
-  { "name": "Kaden", "url": "https://verysilly.site/" },
-  { "name": "mousetail", "url": "https://mousetail.nl" },
-  { "name": "sieni", "url": "https://sijeni.li.pona.la" },
-  { "name": "Ikelene", "url": "https://ikelene.cadex.dev/" },
-  { "name": "cytronicoder", "url": "https://www.cytronicoder.com" },
-  { "name": "Zlendy", "url": "https://zlendy.com" },
-  { "name": "mossy", "url": "https://mossyscorner.neocities.org" },
-  { "name": "nomaakip", "url": "https://nomaakip.xyz" },
-  { "name": "hishoi", "url": "https://under-the-maple.neocities.org" },
-  { "name": "reliquia", "url": "https://ancientcrypt.neocities.org/" },
-  { "name": "panko", "url": "https://moonlit.exposed/" },
-  { "name": "wish", "url": "https://wish.freakybob.site/" },
-  { "name": "code2craft", "url": "https://code2craft.xyz" },
-  { "name": "Lumi", "url": "lumi-ex.neocities.org" },
-  { "name": "Kai Pereira :D", "url": "https://kaipereira.com/" },
-  { "name": "elenzer", "url": "https://elenzer.neocities.org" },
-  { "name": "9b39e4d9", "url": "https://9b39.neocities.org/" },
-  { "name": "pxl", "url": "https://pxl.env.pm" },
-  { "name": "gwi", "url": "https://candybling.nekoweb.org/homepage/" },
-  { "name": "hhmlll", "url": "https://hml.nekoweb.org/" },
-  { "name": "whale-mom", "url": "https://whale-mom.com/" }
+  { "name": "bucketfish", "url": "https://bucketfish.me" }
+  ,{ "name": "Fern", "url": "https://ffernn.me/" }
+  ,{ "name": "freewheelingace", "url": "https://kyubinbrainrot.carrd.co/" }
+  ,{ "name": "ilo Kali", "url": "https://ilokali.neocities.org/" }
+  ,{ "name": "stickertime", "url": "https://stickertime.neocities.org/" }
+  ,{ "name": "munvoseli", "url": "https://munvoseli.github.io/" }
+  ,{ "name": "aspen", "url": "https://aspenland.neocities.org" }
+  ,{ "name": "Gray", "url": "https://graystea.neocities.org/" }
+  ,{ "name": "Vaea V", "url": "https://itsvaeav.nekoweb.org/" }
+  ,{ "name": "Suntooth", "url": "https://suntooth.neocities.org/" }
+  ,{ "name": "lime360", "url": "https://lime360.neocities.org/" }
+  ,{ "name": "amby", "url": "https://ambylastname.xyz/" }
+  ,{ "name": "ara", "url": "https://mynameisashllee.neocities.org/" }
+  ,{ "name": "4nf95q643hf8wy4987fqn", "url": "https://tetrakis.flounder.online/" }
+  ,{ "name": "swiftyshq", "url": "https://swiftyshq.neocities.org/" }
+  ,{ "name": "cranknet", "url": "https://cranknet.com/" }
+  ,{ "name": "bacon", "url": "https://bestbaconhair.neocities.org/"}
+  ,{ "name": "juette", "url": "https://mothcore.neocities.org/" }
+  ,{ "name": "Ampersandia", "url": "https://ampersandia.net/" }
+  ,{ "name": "Seirdy", "url": "https://seirdy.one/" }
+  ,{ "name": "AustinHuang.me", "url": "https://austinhuang.me" }
+  ,{ "name": "BlackPirateX", "url": "https://blackpiratex.com" }
+  ,{ "name": "Fishy Pug Bruh", "url": "https://fishypugbruh.neocities.org/" }
+  ,{ "name": "simply.", "url": "https://simply.jenett.org/" }
+  ,{ "name": "rarimena", "url": "https://rarimena.neocities.org/" }
+  ,{ "name": "Laker T.", "url": "https://laker.tech/meta/others" }
+  ,{ "name": "jmibo", "url": "https://jmibo.neocities.org" }
+  ,{ "name": "microsynthera", "url": "https://microsynthera.neocities.org" }
+  ,{ "name": "motan", "url": "https://motan.works" }
+  ,{ "name": "44nifty", "url": "https://44nifty.com" }
+  ,{ "name": "chii", "url": "https://chiitopia.neocities.org/" }
+  ,{ "name": "Rain", "url": "https://rainmirage.neocities.org/" }
+  ,{ "name": "Tsuki", "url": "https://tsk.bearblog.dev/" }
+  ,{ "name": "soopyc", "url": "https://soopy.moe/" }
+  ,{ "name": "AKBatten", "url": "https://akbatten.com" }
+  ,{ "name": "O2C", "url": "https://owencompher.me" }
+  ,{ "name": "Bits", "url": "https://bitsdev.neocities.org" }
+  ,{ "name": "asnev", "url": "https://asnev.neocities.org/" }
+  ,{ "name": "heav", "url": "https://heav.mondecitronne.com/" }
+  ,{ "name": "foreverliketh.is", "url": "https://foreverliketh.is/" }
+  ,{ "name": "sus", "url": "https://sus.fr/" }
+  ,{ "name": "rwx4096", "url": "https://rwx4096.neocities.org/" }
+  ,{ "name": "amuffin", "url": "https://amuffin.is-a.dev" }
+  ,{ "name": "tarraxahum", "url": "https://tarraxahum.neocities.org/" }
+  ,{ "name": "brisray", "url": "https://brisray.com/" }
+  ,{ "name": "Whey_Isolate", "url": "https://whey-isolate.neocities.org/" }
+  ,{ "name": "Obspogon", "url": "https://obspogon.neocities.org/" }
+  ,{ "name": "Fox", "url": "https://empiressmp.gay/" }
+  ,{ "name": "alisonc", "url": "https://alisonc.net/" }
+  ,{ "name": "Epic", "url": "https://epic1.neocities.org/" }
+  ,{ "name": "screamingegg", "url": "https://screamingegg.neocities.org/"}
+  ,{ "name": "isopod", "url": "https://isopod.cool/"}
+  ,{ "name": "lipamanka", "url":"https://lipamanka.gay/"}
+  ,{ "name": "nucleus", "url": "https://nucleus.neocities.org" }
+  ,{ "name": "Hyena Network", "url": "https://hyena.network/geocity/" }
+  ,{ "name": "kebokyo", "url": "https://eleboog.com" }
+  ,{ "name": "The Arcade", "url": "https://articexploit.xyz" }
+  ,{ "name": "shinto", "url": "https://theabsoluterealm.com" }
+  ,{ "name": "shumyumi", "url": "https://themikupretenderv2.neocities.org/" }
+  ,{ "name": "Skykristal", "url": "https://skykristal.art" }
+  ,{ "name": "🆂🅿🅰🅲🅴👽🅱🅰🆁", "url": "https://space-bar.neocities.org/" }
+  ,{ "name": "ORION ☆", "url": "https://orion-overdrive.neocities.org" }
+  ,{ "name": "Daryl Sun", "url": "https://blog.darylsun.page/" }
+  ,{ "name": "Pixel Safari", "url": "https://pixelsafari.neocities.org/" }
+  ,{ "name": "Höllenreiter", "url": "https://hollenreiter.neocities.org" }
+  ,{ "name": "Aradia Collective for Magical Girl Comics", "url": "https://aradiacollective.com" }
+  ,{ "name": "Am Weird!", "url": "https://amweird.neocities.org/" }
+  ,{ "name": "aster's asterisms!'", "url": "https://asters-asterisms.neocities.org/" }
+  ,{ "name": "cobyzaby", "url": "https://cobyzaby.neocities.org/" }
+  ,{ "name": "basementcommunity", "url": "https://basementcommunity.com" }
+  ,{ "name": "GodNinja69", "url": "https://gn69.neocities.org" }
+  ,{ "name": "NonGMOTrash", "url": "https://nongmotrash.github.io/" }
+  ,{ "name": "Aio", "url": "https://theaio.neocities.org/main" }
+  ,{ "name": "freya", "url": "https://freya.cat" }
+  ,{ "name": "cajeck", "url": "https://cajecks-lair.neocities.org/" }
+  ,{ "name": "Skell", "url": "https://skull-aton.neocities.org" }
+  ,{ "name": "syrupnx", "url": "https://syrupnx.space" }
+  ,{ "name": "marty", "url": "https://kirkmania.neocities.org/#one" }
+  ,{ "name": "Speyll", "url": "https://speyllsite.pages.dev/" }
+  ,{ "name": "The Cozy Cat", "url": "https://www.thecozy.cat/" }
+  ,{ "name": "milliewebby", "url": "https://milliewebby.neocities.org/" }
+  ,{ "name": "Veyther", "url": "https://veyther.neocities.org/" }
+  ,{ "name": "Ema", "url": "https://emmabelotti.neocities.org" }
+  ,{ "name": "etbcor", "url": "https://etbcor.com/" }
+  ,{ "name": "Streamm", "url": "https://streamm-pandaroux.neocities.org/" }
+  ,{ "name": "centiskor.ch", "url": "https://centiskor.ch/" }
+  ,{ "name": "bonki", "url": "https://bonkiscoolsite.neocities.org/" }
+  ,{ "name": "authen", "url": "https://authen.neocities.org/" }
+  ,{ "name": "bfc", "url": "https://baccyflap.com/" }
+  ,{ "name": "crystal", "url": "https://crystal.tilde.institute" }
+  ,{ "name": "censorine", "url": "https://censorine.com" }
+  ,{ "name": "Astral", "url": "https://astralvrz.github.io/" }
+  ,{ "name": "Birthplace of the Process of Illogical Logic", "url": "https://www.nickifaulk.com/" }
+  ,{ "name": "Rings around the Internet", "url": "https://fanlistings.nickifaulk.com/webrings/" }
+  ,{ "name": "jackdaw", "url": "https://skyhold.org/" }
+  ,{ "name": "Wasp", "url": "https://punkwasp.leprd.space" }
+  ,{ "name": "Oscar", "url": "https://goofysillygoober.neocities.org/"}
+  ,{ "name": "bigtub", "url": "https://bigtub.neocities.org" }
+  ,{ "name": "WebWizard", "url": "https://webwizard.ichi.city" }
+  ,{ "name": "PatchMixolydic", "url": "https://patchmixolydic.com" }
+  ,{ "name": "fin600", "url": "https://fin600.slime.place" }
+  ,{ "name": "constantine", "url": "https://shenaniganery.neocities.org/home" }
+  ,{ "name": "Dophelsinette.", "url": "https://a-quiet-room.neocities.org/" }
+  ,{ "name": "matty", "url": "https://transatlanticism.neocities.org/" }
+  ,{ "name": "Strix!", "url": "https://mormoroi.com/" }
+  ,{ "name": "gala", "url": "https://gala-kyklos.neocities.org" }
+  ,{ "name": "maria", "url": "https://maria.town" }
+  ,{ "name": "arandominternetuser", "url": "https://arandomsite.neocities.org/" }
+  ,{ "name": "dustedpink", "url": "https://dustedpink.neocities.org/" }
+  ,{ "name": "aceynk", "url": "https://aceynk.neocities.org" }
+  ,{ "name": "manyface", "url": "https://manyface.neocities.org/" }
+  ,{ "name": "exlitry.world", "url": "https://exlitry.world" }
+  ,{ "name": "andrew", "url": "https://andrewslair.org" }
+  ,{ "name": "varve", "url": "https://www.write-on.org/" }
+  ,{ "name": "Argentnoelle", "url": "https://argentnoelle.neocities.org/" }
+  ,{ "name": "kulijo", "url": "https://kulijo.neocities.org/" }
+  ,{ "name": "bass drop", "url": "https://bassdrop.club/" }
+  ,{ "name": "Itzz Me", "url": "https://itzzcode.github.io" }
+  ,{ "name": "Cryptie!", "url": "https://www.cryptie.dev/"}
+  ,{ "name": "verybittericecream", "url": "https://oerrorpage.neocities.org"}
+  ,{ "name": "astrid dot tech", "url": "https://www.astrid.tech/"}
+  ,{ "name": "ari dot lt", "url": "https://ari.lt/" }
+  ,{ "name": "Onedear", "url": "https://onedear.neocities.org/" }
+  ,{ "name": "Vill🅐 Pirorum", "url": "https://villepreux.net/" }
+  ,{ "name": "aRandomMenno", "url": "https://aRandomMenno.github.io/" }
+  ,{ "name": "MiLKYWaY", "url": "https://milkyway.moe/" }
+  ,{ "name": "Kyo", "url": "https://oliscrabwife.neocities.org/" }
+  ,{ "name": "Lydia", "url": "https://lyd.city/" }
+  ,{ "name": "evil benny", "url": "https://lopster.neocities.org/" }
+  ,{ "name": "bee :3", "url": "https://bee.nekoweb.org/" }
+  ,{ "name": "remblanc", "url": "https://remblanc.nekoweb.org/" }
+  ,{ "name": "circular", "url": "https://circulars.dev/" }
+  ,{ "name": "xv1", "url": "https://xv1.neocities.org/" }
+  ,{ "name": "allissa", "url": "https://itzzen.net/" }
+  ,{ "name": "patrickwu", "url": "https://patrickwu.space/" }
+  ,{ "name": "skatuya", "url": "https://literallyfictional.neocities.org/" }
+  ,{ "name": "pixeldesu", "url": "https://pixelde.su/" }
+  ,{ "name": "Yonah", "url": "https://emiw.nekoweb.org" }
+  ,{ "name": "maebeenot", "url": "https://coolbugs.win" }
+  ,{ "name": "Tommi", "url": "https://tommi.space" }
+  ,{ "name": "cascading.space", "url": "https://cascading.space" }
+  ,{ "name": "triPixel", "url": "https://tripixel.neocities.org" }
+  ,{ "name": "Icelogist", "url": "https://icelogist.nekoweb.org" }
+  ,{ "name": "mossgreeneddie", "url": "https://deepintheforest.neocities.org/"}
+  ,{ "name": "blitzw.in", "url": "https://www.blitzw.in/"}
+  ,{ "name": "eva.town", "url": "https://eva.town/webrings" }
+  ,{ "name": "Maven", "url": "https://maven.pages.gay"}
+  ,{ "name": "marshdotcom", "url": "https://marshdotcom.neocities.org" }
+  ,{ "name": "poz", "url": "https://poz.pet" }
+  ,{ "name": "dostoynikov", "url": "https://dostoynikov.bearblog.dev"}
+  ,{ "name": "haetae", "url": "https://haetae.pages.gay/" }
+  ,{ "name": "agarneo", "url": "https://bublz.us" }
+  ,{ "name": "ReptileOrange", "url": "https://reptilian.monster/"}
+  ,{ "name": "iluvwerewolves", "url": "https://iluvwerewolves.nekoweb.org/"}
+  ,{ "name": "illuc", "url": "https://home.illuc.xyz/"}
+  ,{ "name": "yetiuard", "url": "https://yetiuard.wtf/"}
+  ,{ "name": "Yordi", "url": "https://yordi.me/"}
+  ,{ "name": "Malingen", "url": "https://lules-oddities.vercel.app/"}
+  ,{ "name": "MarkAssPandi", "url": "https://kamila.pet"}
+  ,{ "name": "Leilukin", "url": "https://leilukin.com/" }
+  ,{ "name": "Zachary Kai", "url": "https://zacharykai.net" }
+  ,{ "name": "Angelwood", "url": "https://angelwood.xyz/" }
+  ,{ "name": "crumpetalpaca", "url": "https://crumpetalpaca.xyz/" }
+  ,{ "name": "dstbnnyjp", "url": "https://dustbunnybedroom.neocities.org/" }
+  ,{ "name": "lars dot info", "url": "https://larsfrommars.neocities.org" }
+  ,{ "name": "Tori Hall", "url": "https://toriii.neocities.org/" }
+  ,{ "name": "☹️☹️☹️.ovh", "url": "https://sad.ovh" }
+  ,{ "name": "vulpecula", "url": "https://vulpecula.neocities.org/" }
+  ,{ "name": "~tomxcd", "url": "https://derg.rest" }
+  ,{ "name": "pnda.space", "url": "https://pnda.space" }
+  ,{ "name": "natalie", "url": "https://nat.envs.net/" }
+  ,{ "name": "aketawi", "url": "https://www.aketawi.space/" }
+  ,{ "name": "lina", "url": "https://amalinalai.github.io/precipice/" }
+  ,{ "name": "Dazhak", "url": "https://dogspit.nekoweb.org" }
+  ,{ "name": "Lyrenhex", "url": "https://lyrenhex.com" }
+  ,{ "name": "cicadastatic", "url": "https://cicadastatic.neocities.org/" }
+  ,{ "name": "u1trav101et", "url": "https://u1trav101.net/"}
+  ,{ "name": "RomOS", "url": "https://mxbo.neocities.org" }
+  ,{ "name": "Cloudhiker", "url": "https://cloudhiker.neocities.org" }
+  ,{ "name": "zeroptr", "url": "https://zptr.cc" }
+  ,{ "name": "enky", "url": "https://enky.neocities.org" }
+  ,{ "name": "reiyua", "url": "https://reiyua.neocities.org" }
+  ,{ "name": "robbi", "url": "https://journal.robbi.my" }
+  ,{ "name": "ThinLiquid", "url": "https://thinliquid.dev" }
+  ,{ "name": "Lunya.pet", "url": "https://lunya.nekoweb.org" }
+  ,{ "name": "Coding Otaku", "url": "https://codingotaku.com" }
+  ,{ "name": "kino", "url": "https://onthequiet.nekoweb.org/" }
+  ,{ "name": "Sertimus", "url": "https://sertimus.xyz" }
+  ,{ "name": "guavajelly", "url": "https://bigfatgorilla.com" }
+  ,{ "name": "jay", "url": "https://firefairy.neocities.org/" }
+  ,{ "name": "tiago", "url": "https://tiago.zip/?ref=bucketfish" }
+  ,{ "name": "Cbass92", "url": "https://cbass92.org/" }
+  ,{ "name": "beau's silly folder", "url": "https://beaus-silly-folder.nekoweb.org" }
+  ,{ "name": "Rain Parade", "url": "https://rainparade.nekoweb.org/" }
+  ,{ "name": "kuuriii", "url": "https://starlightreverie.garden/" }
+  ,{ "name": "andigandhi", "url": "https://andi.grasserisen.de/" }
+  ,{ "name": "Lira", "url": "https://lira.kraamwinkel.be/" }
+  ,{ "name": "Rishikesh", "url": "https://rishikeshs.com/" }
+  ,{ "name": "locket", "url": "https://pinkpasture.neocities.org/" }
+  ,{ "name": "neptune", "url": "https://xpvm.net" }
+  ,{ "name": "Tom Brandis", "url": "https://tombrandis.uk/" }
+  ,{ "name": "Eniuu", "url": "https://eniuu.debil.club/" }
+  ,{ "name": "Vee", "url": "https://ivycryptid.nekoweb.org/index.html" }
+  ,{ "name": "mrkod", "url": "https://mrkod.eu.org/" }
+  ,{ "name": "computerguts", "url": "https://computerguts.neocities.org" }
+  ,{ "name": "kiyo", "url": "https://kiyo.ncat.cafe/" }
+  ,{ "name": "dc.XYZ", "url": "https://dominiccook.xyz" }
+  ,{ "name": "zestpunk", "url": "https://zestpunk.nekoweb.org/" }
+  ,{ "name": "magnets", "url": "https://electro-magnets.neocities.org/" }
+  ,{ "name": "~hedy", "url": "https://home.hedy.dev/" }
+  ,{ "name": "JessAndKimn", "url": "https://kimn.neocities.org" }
+  ,{ "name": "eugodr", "url": "https://eugodr.net/" }
+  ,{ "name": "<cannabidiol>", "url": "https://cannabidiol.nekoweb.org/" }
+  ,{ "name": "<graphic dispensary>", "url": "https://tetrahydrocannabinol.nekoweb.org/" }
+  ,{ "name": "sugarhouse", "url": "https://sugarhouse.neocities.org" }
+  ,{ "name": "appak", "url": "https://appak.neocities.org" }
+  ,{ "name": "myrdin", "url": "https://myrdin.cx/" }
+  ,{ "name": "john", "url": "https://johngriffin.neocities.org/" }
+  ,{ "name": "feyradio", "url": "https://feyradio.moe/" }
+  ,{ "name": "vcrid", "url": "https://vcrid.art/"}
+  ,{ "name": "coffeeknife", "url": "https://coffeeknife.nekoweb.org" }
+  ,{ "name": "kingdra.net", "url": "https://kingdra.net" }
+  ,{ "name": "The Iron Ragdoll", "url": "https://tofutush.github.io/The-Iron-Ragdoll"}
+  ,{ "name": "Lockheart Love", "url": "https://lockheartlove.netlify.app" }
+  ,{ "name": "artur", "url": "https://unartur.de" }
+  ,{ "name": "storm", "url": "https://stormbrary.neocities.org/" }
+  ,{ "name": "ivyyy", "url": "https://cosyivy.xyz"}
+  ,{ "name": "TheL3tterM", "url": "https://thel3tterm.com/" }
+  ,{ "name": "bulltown.neo", "url": "https://bulltown.neocities.org/" }
+  ,{ "name": "ALTk", "url": "https://altk.xyz" }
+  ,{ "name": "expect", "url": "https://whatdidyouexpect.eu" }
+  ,{ "name": "psyclone", "url": "https://psyclone.nekoweb.org" }
+  ,{ "name": "Spacey!", "url": "https://spaceybread.github.io/" }
+  ,{ "name": "THT's den", "url": "https://theholytachanka.com" }
+  ,{ "name": "jackpurrin’s cyberspace", "url": "https://jackpurrin.me/" }
+  ,{ "name": "Nova", "url": "https://pastel-skies.nekoweb.org" }
+  ,{ "name": "Sam", "url": "https://orbitt.sbs/" }
+  ,{ "name": "Flow", "url": "https://flowtyle.neocities.org/" }
+  ,{ "name": "Deva Midhun", "url": "https://coder.is-a.dev" }
+  ,{ "name": "JollyJolli", "url": "https://webring.formen.cc/" }
+  ,{ "name": "Yung Higue", "url": "https://www.yunghigue.com/" }
+  ,{ "name": "The Dressed Mole-Rat", "url": "https://thedressedmolerat.github.io/" }
+  ,{ "name": "xduskashesreal", "url": "https://xduskashesreal.nekoweb.org/" }
+  ,{ "name": "AtomicBolts", "url": "https://atomicbolts.nekoweb.org/" }
+  ,{ "name": "Xan", "url": "https://xan.lol" }
+  ,{ "name": "Tapeykatt", "url": "https://tapeykatt.neocities.org" }
+  ,{ "name": "Tsugu", "url": "https://tsugu.xyz" }
+  ,{ "name": "ReduxFlakes", "url": "https://reduxflakes.nekoweb.org/" }
+  ,{ "name": "sprite", "url": "https://riflesniper.art/" }
+  ,{ "name": "MilesWK", "url": "https://www.mileswk.com/" }
+  ,{ "name": "DragonnFire", "url": "http://johnbot.org" }
+  ,{ "name": "Gaiety.me", "url": "https://gaiety.me/" }
+  ,{ "name": "onthe12thfloor", "url": "https://onthe12thfloor.com/" }
+  ,{ "name": "myon", "url": "https://myon.xyz/" }
+  ,{ "name": "RoBaertschi", "url": "https://robaertschi.me/" }
+  ,{ "name": "jbcarreon123", "url": "https://jbcarreon123.nekoweb.org/" }
+  ,{ "name": "Theepicosity", "url": "http://theepicosity.space/" }
+  ,{ "name": "spagwhetti", "url": "https://spaghetti.nekoweb.org" }
+  ,{ "name": "ivy's home", "url": "https://ivrry.nekoweb.org" }
+  ,{ "name": "Cantinho do Argon", "url": "https://argonptg.neocities.org" }
+  ,{ "name": "fernwaves", "url": "https://fernwaves.neocities.org" }
+  ,{ "name": "Abby", "url": "https://abbylikestodraw.neocities.org/" }
+  ,{ "name": "Obscou", "url": "https://obscou.pages.dev" }
+  ,{ "name": "skylerzap", "url": "https://skylerzap.com" }
+  ,{ "name": "bugwatcher", "url": "https://bugwatcher.nekoweb.org/" }
+  ,{ "name": "sunniva", "url": "https://sunniva.garden/en/webring" }
+  ,{ "name": "alvaniss", "url": "https://alvaniss.neocities.org/" }
+  ,{ "name": "ceridwen15", "url": "https://ceridwen15.gay/" }
+  ,{ "name": "qswitch", "url": "https://qswitch.neocities.org" }
+  ,{ "name": "mocha8686", "url": "https://mocha8686.neocities.org" }
+  ,{ "name": "Taevas", "url": "https://taevas.xyz" }
+  ,{ "name": "wenkicai", "url": "https://wenkicai.neocities.org/" }
+  ,{ "name": "nix", "url": "https://nixxx420.neocities.org/" }
+  ,{ "name": "okt", "url": "https://okt.nekoweb.org/" }
+  ,{ "name": "mini", "url": "https://dospuntostr.es/en/" }
+  ,{ "name": "Arielle", "url": "https://arielsalminen.com/webrings/" }
+  ,{ "name": "Ayo", "url": "https://ayo.ayco.io/" }
+  ,{ "name": "D", "url": "https://lnaba.reisen/" }
+  ,{ "name": "exclave", "url": "https://exclave.city/waterfront.html" }
+  ,{ "name": "hainesnoids", "url": "https://ws4k.net/" }
+  ,{ "name": "David Umoru", "url": "https://davidumoru.me/" }
+  ,{ "name": "e1ke", "url": "https://silverkush.de/" }
+  ,{ "name": "bac", "url": "https://backtick.nekoweb.org" }
+  ,{ "name": "snails", "url": "https://snails.neocities.org" }
+  ,{ "name": "monocyte", "url": "https://monocyte.bearblog.dev" }
+  ,{ "name": "Gabriel GGR", "url": "https://gabrielggr.us.to" }
+  ,{ "name": "kiraneko", "url": "https://kiraneko.me" }
+  ,{ "name": "ThePlateaus", "url": "https://theplateaus.neocities.org" }
+  ,{ "name": "EtherTech", "url": "https://ethertech.org" }
+  ,{ "name": "jjanzen", "url": "https://jjanzen.ca" }
+  ,{ "name": "portfolio de lili", "url": "https://portfoliodelili.neocities.org" }
+  ,{ "name": "jelloeater", "url": "https://jelloeater.me" }
+  ,{ "name": "alexzeecomedy", "url": "https://alexzeecomedy.com" }
+  ,{ "name": "piksal", "url": "https://jnle.dev/" }
+  ,{ "name": "alex_groth", "url": "https://tanwar.dev" }
+  ,{ "name": "GhostNoise", "url": "https://www.ghostnoise.ru" }
+  ,{ "name": "Biverom", "url": "https://biverom.dev" }
+  ,{ "name": "toriii", "url": "https://toriii.nekoweb.org" }
+  ,{ "name": "riley", "url": "https://riley-tech.de" }
+  ,{ "name": "The Cerulean Snake", "url": "https://theceruleansnake.com" }
+  ,{ "name": "op0sit", "url": "https://op0sit.github.io" }
+  ,{ "name": "Mayumi", "url": "https://solanum.works" }
+  ,{ "name": "petrapixel", "url": "https://petrapixel.neocities.org/" }
+  ,{ "name": "math2w", "url": "https://math2w.com/" }
+  ,{ "name": "Pan Continental Airways", "url": "https://pancontinental.nekoweb.org" }
+  ,{ "name": "Melvian", "url": "https://melvian.net" }
+  ,{ "name": "lexm", "url": "http://lexm.leprd.space" }
+  ,{ "name": "mary cuntrarian", "url": "https://marycontrarian.neocities.org/blog/bloghome" }
+  ,{ "name": "polserull", "url": "https://polserull.co.uk/" }
+  ,{ "name": "Sarindipity", "url": "https://sarindipity.com" }
+  ,{ "name": "maze", "url": "https://puzzleheadedpie.neocities.org/" }
+  ,{ "name": "zurdala", "url": "https://www.zurdala.es" }
+  ,{ "name": "prigoana.com", "url": "https://prigoana.com/" }
+  ,{ "name": "PhyoTP", "url": "https://phyotp.dev" }
+  ,{ "name": "arav narula", "url": "https://radioblahaj.com" }
+  ,{ "name": "C.Ezra.M", "url": "https://cezram.neocities.org" }
+  ,{ "name": "kimberlygb", "url": "https://kimberlygb.nekoweb.org/" }
+  ,{ "name": "sheep", "url": "https://sheep.nekoweb.org/" }
+  ,{ "name": "praised", "url": "https://praised.nekoweb.org/" }
+  ,{ "name": "Meander97", "url": "https://meander97.neocities.org/" }
+  ,{ "name": "tiiimezombie", "url": "https://tiiimezombie.neocities.org/" }
+  ,{ "name": "31a05b9c", "url": "https://www.31a05b.net/" }
+  ,{ "name": "moya.cafe", "url": "https://moya.cafe/" }
+  ,{ "name": "Kaden", "url": "https://verysilly.site/" }
+  ,{ "name": "mousetail", "url": "https://mousetail.nl" }
+  ,{ "name": "sieni", "url": "https://sijeni.li.pona.la" }
+  ,{ "name": "Ikelene", "url": "https://ikelene.cadex.dev/" }
+  ,{ "name": "cytronicoder", "url": "https://www.cytronicoder.com" }
+  ,{ "name": "Zlendy", "url": "https://zlendy.com" }
+  ,{ "name": "mossy", "url": "https://mossyscorner.neocities.org" }
+  ,{ "name": "nomaakip", "url": "https://nomaakip.xyz" }
+  ,{ "name": "hishoi", "url": "https://under-the-maple.neocities.org" }
+  ,{ "name": "reliquia", "url": "https://ancientcrypt.neocities.org/" }
+  ,{ "name": "panko", "url": "https://moonlit.exposed/" }
+  ,{ "name": "wish", "url": "https://wish.freakybob.site/" }
+  ,{ "name": "code2craft", "url": "https://code2craft.xyz" }
+  ,{ "name": "Lumi", "url": "lumi-ex.neocities.org" }
+  ,{ "name": "Kai Pereira :D", "url": "https://kaipereira.com/" }
+  ,{ "name": "elenzer", "url": "https://elenzer.neocities.org" }
+  ,{ "name": "9b39e4d9", "url": "https://9b39.neocities.org/" }
+  ,{ "name": "pxl", "url": "https://pxl.env.pm" }
+  ,{ "name": "gwi", "url": "https://candybling.nekoweb.org/homepage/" }
+  ,{ "name": "hhmlll", "url": "https://hml.nekoweb.org/" }
+  ,{ "name": "whale-mom", "url": "https://whale-mom.com/" }
 ]
