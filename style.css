@@ -130,7 +130,9 @@ strong{
 }
 
 
-
+.inactive {
+    color: var(--lesspurple);
+}
 
 
 #header span{
