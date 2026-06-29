@@ -327,7 +327,7 @@
   ,{ "name": "mousetail", "url": "https://mousetail.nl" }
   ,{ "name": "sieni", "url": "https://sijeni.li.pona.la" }
   ,{ "name": "Ikelene", "url": "https://ikelene.cadex.dev/" }
-  ,{ "name": "cytronicoder", "url": "https://www.cytronicoder.com" }
+  ,{ "name": "zeyuyaoy", "url": "https://www.cytronicoder.com" }
   ,{ "name": "Zlendy", "url": "https://zlendy.com" }
   ,{ "name": "Nebby", "url": "https://nebneb.ddns.net/devlog/me" }
   ,{ "name": "mossy", "url": "https://mossyscorner.neocities.org" }
@@ -391,5 +391,7 @@
   ,{ "name": "teslasp2", "url": "https://teslasp2.com/" }
   ,{ "name": "KovaSignal", "url": "https://kovasignal.com/" }
   ,{ "name": "game-ryo", "url": "https://game-ryo.is-a.dev" }
+  ,{ "name": "Cam", "url": "https://cameroncantdraw.neocities.org/"}
+  ,{ "name": "isellsoap", "url": "https://isellsoap.net" }
   ,{ "name": "acdw", "url": "https://www.acdw.net/" }
 ]
